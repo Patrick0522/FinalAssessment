@@ -1,0 +1,87 @@
+#home {
+    margin: 50px;
+    padding: 1%;
+    
+    
+    
+
+}
+
+body {
+    background-image: url(https://img.freepik.com/free-photo/interior-space-decorated-boho-style_23-2150771509.jpg?size=626&ext=jpg&ga=GA1.1.1369675164.1715385600&semt=ais_user);
+    background-size: contain;
+    background-repeat:inherit;
+}
+
+header {
+    background-size: contain;
+    background-color: rgb(37, 35, 35);
+    
+}
+
+.mblogicon {
+    width: 5%;
+}
+
+.fbicon {
+    width: 5%;
+}
+
+.instaicon {
+    width: 5%;
+}
+
+/* porfolio diri*/
+#portfolio {
+    margin: 50px;
+    padding: 5%;
+    /*background-color: rgb(4, 94, 116); */
+
+
+}
+
+/* blog diri*/
+#blog {
+    margin: 50px;
+    padding: 100px;
+    /*background-color: rgb(23, 19, 51);*/
+    
+
+}
+
+/*resume*/
+#resume {
+    margin: 5%;
+    padding: 2%;
+    background-color: burlywood;
+    width: 40%;
+
+}
+
+/*services*/
+#services {
+    margin: 5%;
+    padding: 3%;
+    background-color: burlywood;
+    width: 40%;
+    
+
+}
+
+/*testimonials*/
+#testimonials {
+    margin: 5%;
+    padding: 3%;
+    background-color: burlywood;
+
+}
+
+/*faq*/
+#faq {
+    margin: 5%;
+    padding: 3%;
+    background-color: burlywood;
+    
+
+}
+

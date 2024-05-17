@@ -1,0 +1,50 @@
+body {
+	background-image: url(https://www.desktopbackground.org/download/o/2014/10/05/835508_music-website-background-images-hd_2560x1600_h.jpg);
+	background-repeat: no-repeat;
+  background-size: cover; /* or contain */
+  background-position: center;
+}
+
+.container {
+	padding-top: 50px;
+	padding-bottom: 50px;
+    
+}
+
+h1 {
+	color: #fffefe;
+	font-family: 'Arial', sans-serif;
+  
+}
+
+h2 {
+	color: #ffffff;
+	font-family: 'Arial', sans-serif;
+  
+}
+
+ul {
+	list-style: none;
+	padding-left: 0;
+}
+
+li {
+	margin-bottom: 10px;
+}
+
+a {
+	color: #444;
+}
+
+a:hover {
+	color: #666;
+}
+
+.yticon {
+	width: 15%;
+}
+
+img {
+	margin-top: 30px;
+	border-radius: 5px;
+}
